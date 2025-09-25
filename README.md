@@ -11,6 +11,9 @@
 ![Zero Dependencies](https://img.shields.io/badge/Zero-Dependencies-blue?style=for-the-badge)
 ![Memory Safe](https://img.shields.io/badge/Memory-Safe-green?style=for-the-badge)
 
+## DISCLAIMER ⚠️ EXPERIMENTAL LIBRARY - FOR LAB/PERSONAL USE ⚠️
+This is an experimental library under active development. It is intended for research, learning, and personal projects. The API is subject to change!
+
 </div>
 
 ## Overview
